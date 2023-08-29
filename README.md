@@ -18,8 +18,8 @@
 <br>
 
 - 🌱 I’m currently learning Web Development and doing DSA
+- ☁️ I've keen interest in cloud computing. So,I'm learning Azure
 - Exploring and Learning Github
-- Working on projects
 - Love to do art at my spare time
 - Also a Graphic designer
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1ss-BAdrLe1SEnIwIb4IN0JDABuRa17lN/view?usp=sharing)
