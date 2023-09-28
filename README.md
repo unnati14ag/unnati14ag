@@ -22,7 +22,7 @@
 - Exploring and Learning Github.
 - Love to do art at my spare time.
 - Also a Graphic designer.
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1ss-BAdrLe1SEnIwIb4IN0JDABuRa17lN/view?usp=sharing)
+- I’m currently open for an Intern or a new job opportunity.
 
 <br>
 
